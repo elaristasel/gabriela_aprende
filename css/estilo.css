@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(241, 176, 198);
+    margin: auto;
+    
+}
+
+#feliz{
+    background-color: orange;
+    width: 400px;
+    height: 400px;
+    border-radius: 200px;
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+#caja1{
+    background-color: black;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    left: 90px;
+    top: 60px;
+    border-radius: 20px;
+}
+#caja2{
+    background-color: black;
+    width: 60px;
+    height: 60px;
+    position: relative;
+    left: 250px;
+    border-radius: 20px;
+}
+#caja3{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 120px;
+    top: 130px;
+}
+#caja4{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 100px;
+    top: 60px;
+}
+#caja5{
+    background-color: black;
+    width: 80px;
+    height: 40px;
+    position: relative;
+    left: 160px;
+    top: 70px;
+    
+}
+#caja6{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 265px;
+    bottom: 20px;
+}
+#caja7{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 240px;
+    bottom: 28px;
+}
